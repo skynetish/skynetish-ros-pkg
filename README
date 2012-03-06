@@ -1,0 +1,2 @@
+This repository contains a rosinstall file which lists the ROS stacks
+which should be indexed for the skynetish-ros-pkg repository at ros.org.

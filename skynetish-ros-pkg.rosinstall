@@ -1,0 +1,6 @@
+- git:
+    local-name: teleop
+    uri: https://github.com/skynetish/teleop.git
+    version: master
+    meta:
+      repo-name: skynetish-ros-pkg
